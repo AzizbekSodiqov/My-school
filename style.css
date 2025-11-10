@@ -1196,6 +1196,10 @@ body .modal .items .submit p {
   body .content {
     padding: 20px;
   }
+  body .content .functions .cards {
+    display: flex;
+    flex-direction: column;
+  }
   body .content .functions .cards .column .row .card .card {
     width: 100%;
   }
